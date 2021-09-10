@@ -1,7 +1,8 @@
 # Laboratorio Grupo A
 ## Instructores
 Ivette Carolina Pinto León 00186319
-Oscar Alejandor Rodríguez Abrego 00206019
+
+Oscar Alejandro Rodríguez Abrego 00206019
 ## Meet
 Laboratorio PED 
 Viernes, 10 de septiembre · 11:00am – 1:00pm
