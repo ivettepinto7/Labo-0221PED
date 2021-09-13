@@ -37,6 +37,6 @@ int verificar(int mayor, int menor)
 		aux = mayor % menor;
 		mayor = menor;
 		menor = aux;
-		verificar(mayor, menor); //pausa
+		return verificar(mayor, menor); //pausa
 	}
 }
